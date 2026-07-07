@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Authentication Bar 87</string>
+
+    <string name="empty_state_title">لا توجد حسابات بعد</string>
+    <string name="empty_state_subtitle">اضغط على زر الإضافة لمسح رمز QR أو إدخال المفتاح يدويًا</string>
+
+    <string name="add_account">إضافة حساب</string>
+    <string name="scan_qr">مسح رمز QR</string>
+    <string name="enter_manually">إدخال يدوي</string>
+    <string name="issuer">اسم الجهة (مثال: Google)</string>
+    <string name="account_name">اسم الحساب / البريد الإلكتروني</string>
+    <string name="secret_key">المفتاح السري (Base32)</string>
+    <string name="advanced_options">خيارات متقدمة</string>
+    <string name="algorithm">خوارزمية التشفير</string>
+    <string name="digits">عدد الأرقام</string>
+    <string name="period">مدة الصلاحية (ثواني)</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+
+    <string name="settings">الإعدادات</string>
+    <string name="app_lock">قفل التطبيق ببصمة الإصبع / القفل الشاشي</string>
+    <string name="export_accounts">تصدير الحسابات</string>
+    <string name="import_accounts">استيراد الحسابات</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="edit_account">تعديل الحساب</string>
+    <string name="show_qr">إظهار رمز QR</string>
+    <string name="copy_code">نسخ الرمز</string>
+    <string name="code_copied">تم نسخ الرمز إلى الحافظة</string>
+
+    <string name="error_invalid_secret">المفتاح السري غير صالح، يجب أن يكون بترميز Base32</string>
+    <string name="error_camera_permission">يجب السماح بالوصول إلى الكاميرا لمسح رمز QR</string>
+    <string name="error_empty_fields">يرجى تعبئة جميع الحقول المطلوبة</string>
+    <string name="confirm_delete_title">تأكيد الحذف</string>
+    <string name="confirm_delete_message">هل أنت متأكد من حذف هذا الحساب؟ لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="delete">حذف</string>
+
+    <string name="search_hint">بحث عن حساب…</string>
+</resources>
